@@ -5,4 +5,9 @@ Les 3 codes que je poste ici sont en lien direct avec cette vidéo (en français
 Les programmes que j'ai conçus sont des dérivés de mes sources : Robojax (https://www.youtube.com/c/RobojaxTV) et Tim Hendriks (https://www.youtube.com/c/timhendriks93)
 (je ne veux pas m'attribuer un mérite qui ne m'appartient pas... Donc si tu parle anglais va voir leurs vidéos sur le PCA9685 et l'animation de Servomoteurs avec Blender!)
 
-Pour ce qui est des 3 codes, le premier (
+Pour ce qui est des 3 codes, le premier (Animatronic_Robojax) permet de controler 2 servomoteurs avec le module PCA9685 sur une carte Arduino. 
+Le second (Animatronic_TimHendriks) permet de controler deux servomoteurs selon UNE seule animation définie dans la vidéo de Survel (moi).
+Le dernier programme (Animatronic_Blender_X_PCA9685) est une "fusion" des deux précédents et permet de controler 2 servomoteurs selon deux animations définient dans la vidéo de Survel (toujours moi...)
+
+Pour ce qui est du câblage, tout est disponible dans la vidéo référencée tout en haut.
+A l'issue de tout ça, tu devrais être capable de controler un ou plusieurs servomoteurs sur une carte Arduino avec le module PCA9685 ET de reproduire une animation de blender sur la carte Arduino (c'est pas beau ça?)
